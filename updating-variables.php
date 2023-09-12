@@ -1,6 +1,6 @@
-<?php 
+<?php
 $name  = 'Guest';
-$name  = 'Ivy';
+$name  = 'Sai';
 $price = 5;
 ?>
 <!DOCTYPE html>
@@ -12,7 +12,7 @@ $price = 5;
   <body>
     <h1>The Candy Store</h1>
     <h2>Welcome <?php echo $name; ?></h2>
-    <p>The cost of your candy is 
+    <p>The cost of your candy is
        $<?php echo $price; ?> per pack.</p>
   </body>
 </html>
